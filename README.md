@@ -5,7 +5,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorconti&theme=tokyonight)](https://github.com/vitorconti)
 
 - 🔭 I’m currently working on FrameWork Digital
-- 🌱 I’m currently learning Remix :cd:
+- 🌱 I’m currently learning Remix :cd: and Go (Golang)
 
 <!--
 **vitorconti/vitorconti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
