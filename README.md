@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![vitorconti github stats](https://github-readme-stats.vercel.app/api?username=vitorconti&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/vitorconti)
+[![vitorconti github stats](https://github-readme-stats.vercel.app/api?username=vitorconti&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github.com/vitorconti)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorconti&theme=tokyonight)](https://github.com/vitorconti)
 
